@@ -9,3 +9,4 @@ Hi there! My name is Aman Kashyap, and I am a passionate front-end web developer
 - **React**
 - **Tailwind CSS**
 - **Next.js**
+- **Material UI**
