@@ -8,17 +8,9 @@ I have a strong background in developing user-friendly and responsive interfaces
 
 ## Experience
 
-### Frikly, Frontend Developer (Sep 2023 - Present)
-
-- Developed captivating and user-centric interfaces for the e-commerce platform.
-- Collaborated closely with design teams to translate visions into responsive and dynamic web pages.
-- Elevated overall user experience, contributing to the company's online success.
+### Frikly, Lead Frontend Developer (Sep 2023 - Present)
 
 ### Acadmania, Frontend Developer (Aug 2023 - Sep 2023)
-
-- Collaborated with the team to implement modern design principles.
-- Delivered impactful solutions aligning with Acadmania's commitment to exceptional learning experiences.
-
 
 ### Freelance Services
 
