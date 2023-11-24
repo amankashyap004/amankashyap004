@@ -8,9 +8,9 @@ I have a strong background in developing user-friendly and responsive interfaces
 
 ## Experience
 
-### Frikly, Lead Frontend Developer (Sep 2023 - Present)
+#### Lead Frontend Developer at **Frikly** *(Sep 2023 - Present)*
 
-### Acadmania, Frontend Developer (Aug 2023 - Sep 2023)
+#### Frontend Developer at **Acadmania** *(Aug 2023 - Sep 2023)*
 
 ### Freelance Services
 
