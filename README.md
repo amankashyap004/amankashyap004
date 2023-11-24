@@ -1,12 +1,56 @@
-## About me
+## 👋 Hi there!
 
-Hi there! My name is Aman Kashyap, and I am a passionate front-end web developer. I specialize in building user-friendly and responsive interfaces. I have honed my skills in creating visually stunning websites that provide an excellent user experience. My goal as a developer is to create engaging and interactive digital experiences that captivate audiences and make a positive impact on their lives. I'm excited to continue my journey in web development and explore new possibilities in this dynamic and ever-evolving field.
+ I'm Aman Kashyap, a passionate front-end web developer dedicated to creating exceptional digital experiences.
+
+## About Me
+
+I have a strong background in developing user-friendly and responsive interfaces, with a focus on delivering visually stunning websites. My goal is to captivate audiences and make a positive impact through engaging web solutions.
+
+## Experience
+
+### Frikly, Frontend Developer (Sep 2023 - Present)
+
+- Developed captivating and user-centric interfaces for the e-commerce platform.
+- Collaborated closely with design teams to translate visions into responsive and dynamic web pages.
+- Elevated overall user experience, contributing to the company's online success.
+
+### Acadmania, Frontend Developer (Aug 2023 - Sep 2023)
+
+- Collaborated with the team to implement modern design principles.
+- Delivered impactful solutions aligning with Acadmania's commitment to exceptional learning experiences.
+
+
+### Freelance Services
+
+In addition to my internship experiences, I've also provided freelance services, adding diversity to my portfolio. This has allowed me to work on a range of projects and expand my skill set.
 
 ## Skills
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **Tailwind CSS**
-- **Next.js**
-- **Material UI**
+
+I specialize in the following technologies:
+
+- 💻 **HTML** 
+- 🎨 **CSS** 
+- 🚀 **JavaScript** 
+- 🚀 **TypeScript** 
+- 🌐 **Tailwind CSS** 
+- ⚛️ **React** 
+- 🔄 **Next.js** 
+- 🌐 **Vue.js** 
+- 🅱️ **Bootstrap** 
+- 🔧 **Material UI** 
+- 🚀 **Vercel**
+- 📱 **Responsive Design** 
+- 📁 **GitHub**
+- 🧰 **Version Control (Git)**
+
+## Let's Connect!
+
+I'm always eager to explore new opportunities and collaborate on exciting projects. If you're looking for a front-end developer with a keen eye for design and a commitment to excellence, let's connect!
+
+📧 Reach out to me at [amankashyap004@gmail.com](amankashyap004@gmail.com)
+
+🌐 Check out my portfolio at [https://github.com/amankashyap004](https://github.com/amankashyap004)
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amankashyap004/)
+
+Looking forward to the possibility of working together!
