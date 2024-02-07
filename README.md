@@ -16,6 +16,10 @@ I have a strong background in developing user-friendly and responsive interfaces
 
 In addition to my employment experience, I've given freelancing services, which has broadened my portfolio. This has enabled me to work on a variety of projects and broaden my skill set.
 
+## Projects
+
+- #### [VPH College](https://www.hanchinmanicollege.com/)
+
 ## Skills
 
 I specialize in the following technologies:
