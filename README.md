@@ -8,7 +8,9 @@ I have a strong background in developing user-friendly and responsive interfaces
 
 ## Experience
 
-#### Lead Frontend Developer at **Frikly** *(Sep 2023 - Present)*
+#### Software Engineer at **HashCase** *(Mar 2024 - Jun 2024)*
+
+#### Lead Frontend Developer at **Frikly** *(Sep 2023 - Mar 2024)*
 
 #### Frontend Developer at **Acadmania** *(Aug 2023 - Sep 2023)*
 
@@ -19,6 +21,7 @@ In addition to my employment experience, I've given freelancing services, which 
 ## Projects
 
 - #### [VPH College](https://www.hanchinmanicollege.com/)
+- #### [Vidwath Academy](https://vidwathacademy.com/)
 
 ## Skills
 
@@ -45,10 +48,8 @@ I specialize in the following technologies:
 
 I'm always eager to explore new opportunities and collaborate on exciting projects. If you're looking for a front-end developer with a keen eye for design and a commitment to excellence, let's connect!
 
-📧 Reach out to me at [amankashyap004@gmail.com](amankashyap004@gmail.com)
-
-🌐 Check out my portfolio at [https://github.com/amankashyap004](https://github.com/amankashyap004)
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/amankashyap004/)
+- 📧 **Email**: [amankashyap004@gmail.com](mailto:amankashyap004@gmail.com)
+- 🌐 **Portfolio**: [amankashyap.vercel.app](https://amankashyap.vercel.app/)
+- 🔗 **LinkedIn**: [linkedin.com/in/amankashyap004](https://www.linkedin.com/in/amankashyap004/)
 
 Looking forward to the possibility of working together!
